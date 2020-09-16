@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**trilambda122/trilambda122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Profile for Shane Schilling
 
-Here are some ideas to get you started:
+Business, like life, can be a sea of competing needs and goals. As a mission-driven technology executive, I strongly believe in cultivating dedicated work cultures that provide a clear focus on overall vision and objectives. With 20+ years of progressive leadership experience, I blend in-depth business acumen with a broad understanding across the technical landscape to deliver sustained organizational growth in established and startup environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combining strategy with tactical execution, I drive operational excellence and revenue generation by developing thoughtful, straightforward solutions as well as the steps needed for implementation. The genuine relationships that I build with stakeholders at all levels facilitate trust, collaboration, and adaptability as I spearhead operational launches, enhancements, and problem solving. 
+
+Committed to continuous learning, I seek opportunities for myself and my team to grow in business, technology, and leadership, thereby positioning individuals for current and long-term success 
+
+---
+### Vacation Planning APP
+![Vaction Planing](Vacation%20Destination.png)
+
+### Stay cool with this weather app
+![Weather App](Weather-app.png)
+
+### Test your codeing knowledge
+![Quiz APP](Quiz-App.png)
+
+
+
