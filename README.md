@@ -9,13 +9,13 @@ Committed to continuous learning, I seek opportunities for myself and my team to
 
 ---
 ### Vacation Planning APP
-![Vaction Planing](Vacation%20Destination.png)
+![Vaction Planing](https://trilambda122.github.io/trilambda122/Vacation%20Destination.png)
 
 ### Stay cool with this weather app
-![Weather App](Weather-app.png)
+![Weather App](https://trilambda122.github.io/trilambda122/Weather-app.png)
 
 ### Test your codeing knowledge
-![Quiz APP](Quiz-App.png)
+![Quiz APP](https://trilambda122.github.io/trilambda122/Quiz-App.png)
 
 
 
