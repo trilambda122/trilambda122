@@ -8,14 +8,23 @@ Combining strategy with tactical execution, I drive operational excellence and r
 Committed to continuous learning, I seek opportunities for myself and my team to grow in business, technology, and leadership, thereby positioning individuals for current and long-term success 
 
 ---
-### Vacation Planning APP
-![Vaction Planing](https://trilambda122.github.io/trilambda122/Vacation%20Destination.png)
-
-### Stay cool with this weather app
-![Weather App](https://trilambda122.github.io/trilambda122/Weather-app.png)
+### Stay in touch with users
+![Docket Master](./imgs/userdir.png)
 
 ### Stay Straight with the Law
-![Docket Master](https://trilambda122.github.io/trilambda122/docketmaster-authentication.png)
+![Docket Master](./imgs/docketmaster-authentication.png)
+
+### Stay cool with this weather app
+![Weather App](./imgs/Weather-app.png)
+
+### Vacation Planning APP
+![Vaction Planing](./imgs/Vacation%20Destination.png)
+
+### BURGERS!
+![Weather App](./imgs/BurgerApp.png)
+
+
+
 
 
 
