@@ -23,6 +23,9 @@ Committed to continuous learning, I seek opportunities for myself and my team to
 ### BURGERS!
 ![Weather App](./imgs/BurgerApp.png)
 
+---
+
+[![MY STATS stats](https://github-readme-stats.vercel.app/api?username=trilambda122&count_private=true&show_icons=true)]
 
 
 
