@@ -37,7 +37,7 @@ Fullstack developer who works and plays in Austin, TX
 ### Tools 
 
 <img src="./imgs/github-original.svg" width="25" alt="Github" /> Github
-<img src="./imgs/git-original-wordmark.svg" width="25" alt="Git" /> Git
+<img src="./imgs/git-original.svg" width="25" alt="Git" /> Git
 <img src="./imgs/visualstudio-plain.svg" width="25" alt="VsCode" /> VsCode
 <img src="./imgs/vim-original.svg" width="25" alt="Vim" /> VIM
 <img src="./imgs/docker-original.svg" width="25" alt="Docker" /> Docker
