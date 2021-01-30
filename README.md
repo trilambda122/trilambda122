@@ -20,7 +20,7 @@ Fullstack developer who works and plays in Austin, TX
 
 
 
-### Lang
+### ---Languages--- 
 
 <img src="./imgs/html5-original.svg" width="25" alt="html5" /> HTML5
 <img src="./imgs/nodejs-original.svg" width="25" alt="NodeJS" /> NodeJS
@@ -34,7 +34,7 @@ Fullstack developer who works and plays in Austin, TX
 <img src="./imgs/bootstrap-plain.svg" width="25" alt="Bootstrap" /> Bootstrap
 
 
-### Tools 
+### ---Tools--- 
 
 <img src="./imgs/github-original.svg" width="25" alt="Github" /> Github
 <img src="./imgs/git-original.svg" width="25" alt="Git" /> Git
@@ -45,7 +45,7 @@ Fullstack developer who works and plays in Austin, TX
 <img src="./imgs/gimp-original.svg" width="25" alt="Gimp" /> Gimp
 <img src="./imgs/inkscape-original.svg" width="25" alt="Inkscape" /> Inkscape
 
-### Backend
+### ---Backend---
 
 <img src="./imgs/linux-plain.svg" width="25" alt="Linux" /> Unix / Linux
 <img src="./imgs/heroku-original.svg" width="25" alt="Heroku" /> Heroku
