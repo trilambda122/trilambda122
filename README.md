@@ -6,7 +6,7 @@
 
 - 20 years experience in technology
 
-- Passionate about software and its ability to bring ideas reality for both business and social justice 
+- Passionate about software and its ability to bring ideas to reality for both business and social justice 
 
 - My portfolio can be found here https://trilambda122.github.io/resume/
 
