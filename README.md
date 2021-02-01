@@ -42,6 +42,7 @@ Fullstack developer who works and plays in Austin, TX
 <img src="./imgs/vim-original.svg" width="25" alt="Vim" /> VIM
 <img src="./imgs/docker-original.svg" width="25" alt="Docker" /> Docker
 <img src="./imgs/ssh-original-wordmark.svg" width="25" alt="SSH" /> SSH
+<img src="./imgs/icons8-figma.svg" width="25" alt="Inkscape" /> Figma
 <img src="./imgs/gimp-original.svg" width="25" alt="Gimp" /> Gimp
 <img src="./imgs/inkscape-original.svg" width="25" alt="Inkscape" /> Inkscape
 
