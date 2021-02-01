@@ -2,16 +2,16 @@
 # Profile for Shane Schilling
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-schilling/)   
 
-
-Fullstack developer who works and plays in Austin, TX
+ "Full Stack Developer looking to leveraging 20 years of technical and business experience.  A value-based employee who thrives in diverse team environments and maintains collaborative relationships. Recently received a certification in Full Stack development from the University of Texas. 
 
 - 20 years experience in technology
 
-- Passionate about software and its ability to change established business models and social justice programs 
+- Passionate about software and its ability to bring ideas reality for both business and social justice 
 
-- My portfolio can be found here: https://trilambda122.github.io/resume/
+- My portfolio can be found here https://trilambda122.github.io/resume/
 
 - Contact me at shane@sschilling.com
+
 
 ---
 ## TECH STACK
