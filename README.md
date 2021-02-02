@@ -2,7 +2,7 @@
 # Profile for Shane Schilling
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-schilling/)   
 
- Full Stack Developer looking to leveraging 20 years of technical and business experience.  A value-based employee who thrives in diverse team environments and maintains collaborative relationships. certification in Full Stack development from the University of Texas. 
+ Full Stack Developer looking to leveraging 20 years of technical and business experience.  A value-based employee who thrives in diverse team environments and maintains collaborative relationships. Certification in Full Stack development from the University of Texas. 
 
 - 20 years experience in technology
 
