@@ -12,7 +12,7 @@
 
 - My portfolio can be found here https://trilambda122.github.io/resume/
 
-- Contact me at shane@sschilling.com
+- Contact me at trilambda122@gmail.com
 
 
 ---
