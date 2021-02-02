@@ -6,7 +6,7 @@
 
 - 20 years experience in technology
 
-- Passionate about software and its ability to bring ideas to reality for both business and social justice 
+- Passionate about software and its ability to bring ideas to reality for both business and social impact programs
   
 - Certified Full Stack developer from the University of Texas.
 
