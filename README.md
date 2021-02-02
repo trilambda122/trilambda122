@@ -10,7 +10,7 @@
   
 - Certified Full Stack developer from the University of Texas.
 
-- My portfolio can be found here https://trilambda122.github.io/hw20-portfolio-react/
+- My portfolio can be found here https://trilambda122.github.io/portfolio-react/
 
 - Contact me at trilambda122@gmail.com
 
