@@ -32,6 +32,7 @@
 <img src="./imgs/mysql-original.svg" width="25" alt="MySQL" /> MySql
 <img src="./imgs/postgresql-original.svg" width="25" alt="PostgreSQL" /> PostgreSQL
 <img src="./imgs/mongodb-original.svg" width="25" alt="MongoDb" /> MongoDb
+<img src="./imgs/sequelize-plain.svg" width="25" alt="Sequelize" /> Sequelize
 <img src="./imgs/react-original.svg" width="25" alt="React" /> React
 <img src="./imgs/bootstrap-plain.svg" width="25" alt="Bootstrap" /> Bootstrap
 
