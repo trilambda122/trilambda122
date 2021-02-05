@@ -10,9 +10,9 @@
   
 - Certified Full Stack developer from the University of Texas.
 
-- My portfolio can be found here https://trilambda122.github.io/Portfolio-react/
+- My portfolio can be found here http://portfolio.sschilling.com
 
-- Contact me at trilambda122@gmail.com
+- Contact me at shane@sschilling.com
 
 
 ---
